@@ -27,3 +27,6 @@ let name = prompt("hello ples enter your name");
 console.log("name");
 
 document.getelementbyid("dom").innerHTML ="hello JavaScript";
+
+
+variable

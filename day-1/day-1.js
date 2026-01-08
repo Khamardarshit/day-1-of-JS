@@ -26,3 +26,5 @@ const country = "USA"; // block-scoped constant
 console.log("Age:", age);
 console.log("City:", city);
 console.log("Country:", country);
+
+

@@ -65,3 +65,43 @@ console.log("Type of obj:", typeof obj);
 let arr = [1, 2, 3, 4, 5];
 console.log("Array:", arr);
 console.log("Type of arr:", typeof arr);
+
+// 5️⃣ Basic Operations: Arithmetic, String Concatenation
+
+// Arithmetic Operations
+
+a = 10 + 5; 
+console.log("Addition: 10 + 5 =", a);
+
+b = 10 * 5;
+console.log("Multiplication: 10 * 5 =", b);
+c = 10 / 5;
+console.log("Division: 10 / 5 =", c);
+d = 10 - 5;
+console.log("Subtraction: 10 - 5 =", d);
+e = 10 % 3;
+console.log("Modulus: 10 % 3 =", e);
+
+
+// comperison operations
+
+aa = 10 > 5;
+console.log("10 > 5 =", aa);
+
+bb = 10 < 5;
+console.log("10 < 5 =", bb);
+
+cc = 10 >= 5;
+console.log("10 >= 5 =", cc);
+
+dd = 10 <= 5;
+console.log("10 <= 5 =", dd);
+
+ee = 10 == 5;
+console.log("10 == 5 =", ee);
+
+ff = 10 != 5;
+console.log("10 != 5 =", ff);
+
+gg = 10 === 5;
+console.log("10 === 5 =", gg);

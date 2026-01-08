@@ -28,5 +28,6 @@ console.log("name");
 
 document.getelementbyid("dom").innerHTML ="hello JavaScript";
 
+3️⃣ Variables: var, let, const
 
 variable

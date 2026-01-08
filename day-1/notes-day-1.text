@@ -1,0 +1,29 @@
+What is JavaScript?
+
+JavaScript is a programming language for the web that makes pages interactive.
+
+Browser vs Node.js
+Browser JavaScript	Node.js
+Runs in the browser	Runs on your computer
+Can access HTML/CSS	No direct DOM access
+Used for UI & events	Used for backend & scripts
+
+For now, we’ll focus on browser JavaScript.
+
+ES5 vs ES6
+
+ES5 (old) → var, function-based
+
+ES6 (modern, recommended) → let, const, arrow functions, etc.
+
+👉 We will mostly use ES6.
+
+*input*
+
+console.log("hello darshit");
+alert(" ple enter your name");
+
+let name = prompt("hello ples enter your name");
+console.log("name");
+
+document.getelementbyid("dom").innerHTML ="hello JavaScript";
